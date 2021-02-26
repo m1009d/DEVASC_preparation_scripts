@@ -1,0 +1,39 @@
+# Ignore files
+*~                 # exclude Emacs temp files
+.*.swp             # exclude VIM temp files
+.DS_Store          # exclude MacOS temp files
+.Trashes           # exclude Linux trash files
+*.vscode
+*.retry
+*.log
+*.gz
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__pypackages__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+develop-eggs/
+eggs/
+.eggs/
+sdist/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python coverage test files
+.coverage
