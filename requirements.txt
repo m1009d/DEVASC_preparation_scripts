@@ -1,0 +1,11 @@
+ucsmsdk
+acicobra
+requests
+
+# To install all Python packages in a new virtual environment,
+# called "devasc_preparation", you can use the commands bellow:
+#   python3 -m venv devasc_preparation
+#   cd devasc_preparation
+#   source bin/activate
+#   pip install pip --upgrade
+#   pip install -r requirements.txt
