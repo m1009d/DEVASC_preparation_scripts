@@ -408,7 +408,7 @@ from sdwan_auth import get_auth_headers
 
 if __name__ == "__main__":
 
-    # Get the requests.session() object which contain the JESSIONID
+    # Get the requests.session() object which contain the JSESSIONID
     # session ID as well as the X-XSRF-TOKEN.
     auth_headers = get_auth_headers()
 
