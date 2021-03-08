@@ -69,7 +69,7 @@ if __name__ == "__main__":
     )
 
     # Add the VLAN 123 object to the object handle using the add_mo method.
-    handle.add_mo(VLAN)
+    handle.add_mo(vlan123)
 
     # Commit the change to add the VLAN 123 to the UCS Manager
     handle.commit()
