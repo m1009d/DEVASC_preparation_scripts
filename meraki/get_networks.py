@@ -38,6 +38,9 @@ Example of returned data:
 
 MERAKI DASHBOARD API Learning lab can be accessed here:
 https://developer.cisco.com/learning/lab/meraki-02-dashboard-api/
+
+Meraki Dashboard API documentation:
+https://developer.cisco.com/meraki/api/
 """
 
 import json
